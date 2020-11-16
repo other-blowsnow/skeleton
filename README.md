@@ -1,6 +1,7 @@
 # skeleton
 一个快速的骨架生成，基于页面原结构生成
 
+![DkyUXj.png](https://s3.ax1x.com/2020/11/16/DkyUXj.png)
 
 ## 快速使用
 ```
